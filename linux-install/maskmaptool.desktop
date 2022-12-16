@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=MaskMapTool
+Exec=MaskMapTool
+Icon=mask_icon
+Terminal=false
+Type=Application
