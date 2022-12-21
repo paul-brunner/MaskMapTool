@@ -5,10 +5,14 @@ Mask Map Tool is a programme that enables you to create Mask Map textures the fa
 ![](images/mask_map_tool_preview.png)
 
 ## How it works
-Mask Map Tool takes the greyscale textures (Metallic Map, Ambient Occllusion Map, Detail Mask and Smoothness Map) and merges them to a single texture, the mask map (see image below).
+Select the maps you want to be included in the mask map via drag and drop or the Select Path buttons and click the Save as button. <br>
+<br>
+Mask Map Tool then takes the greyscale textures (Metallic Map, Ambient Occllusion Map, Detail Mask and Smoothness Map) and merges them to a single texture, the mask map (see image below).
 <br>
 <br>
 ![](images/explanation.png)
+
+You will then find the generated mask map in the selected directory.
 
 ## Installation
 Official releases can be downloaded from the [release page](https://github.com/WorldOfPaul/MaskMapTool/releases) <br>
